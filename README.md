@@ -1,7 +1,6 @@
 ### 👋 Hi there! I'm Web Frontend Developer 
 
 
-I enjoy traveling, swimming, 
 
 
 
