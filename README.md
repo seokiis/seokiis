@@ -1,24 +1,16 @@
-<h1 style="color: #41A5DF">
-About Me
-</h1>
+## About Me
 
 안녕하세요, 웹 프론트엔드 개발자 김석희입니다. 사람들의 삶을 바꾸고 "같이의 가치"를 실현하고자 합니다.
 
-<h1 style="color: #41A5DF">
-Portfolio
-</h1>
+## Portfolio
 
 <a href="https://tungsten-brisket-208.notion.site/8f99d417cae14453b55a1d10d8793082?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo"/></a>
 
-<h1 style="color: #41A5DF">
-Contact
-</h1>
+## Contact
 
 ![](https://img.shields.io/badge/cat1181123@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white)
 
-<h1 style="color: #41A5DF">
-Skills
-</h1>
+## Skills
 
 ### Languages
 
