@@ -4,7 +4,7 @@
 
 ## Portfolio
 
-<a href="https://tungsten-brisket-208.notion.site/110c6e4c88ff46cfbd9aabe1562f3344?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo"/></a>
+<a href="https://seokiis.notion.site/110c6e4c88ff46cfbd9aabe1562f3344" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo"/></a>
 
 ## Contact
 
